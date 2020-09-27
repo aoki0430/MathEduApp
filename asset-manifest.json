@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/MathEduApp/static/css/main.e57ee488.chunk.css",
-    "main.js": "/MathEduApp/static/js/main.feda9c3a.chunk.js",
-    "main.js.map": "/MathEduApp/static/js/main.feda9c3a.chunk.js.map",
+    "main.js": "/MathEduApp/static/js/main.8eb65f8b.chunk.js",
+    "main.js.map": "/MathEduApp/static/js/main.8eb65f8b.chunk.js.map",
     "runtime-main.js": "/MathEduApp/static/js/runtime-main.f4f80084.js",
     "runtime-main.js.map": "/MathEduApp/static/js/runtime-main.f4f80084.js.map",
     "static/css/2.fbf480f2.chunk.css": "/MathEduApp/static/css/2.fbf480f2.chunk.css",
-    "static/js/2.93f084ea.chunk.js": "/MathEduApp/static/js/2.93f084ea.chunk.js",
-    "static/js/2.93f084ea.chunk.js.map": "/MathEduApp/static/js/2.93f084ea.chunk.js.map",
+    "static/js/2.32741999.chunk.js": "/MathEduApp/static/js/2.32741999.chunk.js",
+    "static/js/2.32741999.chunk.js.map": "/MathEduApp/static/js/2.32741999.chunk.js.map",
     "index.html": "/MathEduApp/index.html",
-    "precache-manifest.297d3e10b1ddaae88cbca8ced412220c.js": "/MathEduApp/precache-manifest.297d3e10b1ddaae88cbca8ced412220c.js",
+    "precache-manifest.dc31360c2aa5fa4505d96ffbdc56dd84.js": "/MathEduApp/precache-manifest.dc31360c2aa5fa4505d96ffbdc56dd84.js",
     "service-worker.js": "/MathEduApp/service-worker.js",
     "static/css/2.fbf480f2.chunk.css.map": "/MathEduApp/static/css/2.fbf480f2.chunk.css.map",
     "static/css/main.e57ee488.chunk.css.map": "/MathEduApp/static/css/main.e57ee488.chunk.css.map",
-    "static/js/2.93f084ea.chunk.js.LICENSE.txt": "/MathEduApp/static/js/2.93f084ea.chunk.js.LICENSE.txt",
+    "static/js/2.32741999.chunk.js.LICENSE.txt": "/MathEduApp/static/js/2.32741999.chunk.js.LICENSE.txt",
     "static/media/katex.min.css": "/MathEduApp/static/media/KaTeX_Typewriter-Regular.641339e2.woff2",
     "static/media/anime_1_1.png": "/MathEduApp/static/media/anime_1_1.fe99f813.png",
     "static/media/anime_1_2.png": "/MathEduApp/static/media/anime_1_2.922bc129.png",
@@ -28,8 +28,8 @@
   "entrypoints": [
     "static/js/runtime-main.f4f80084.js",
     "static/css/2.fbf480f2.chunk.css",
-    "static/js/2.93f084ea.chunk.js",
+    "static/js/2.32741999.chunk.js",
     "static/css/main.e57ee488.chunk.css",
-    "static/js/main.feda9c3a.chunk.js"
+    "static/js/main.8eb65f8b.chunk.js"
   ]
 }
