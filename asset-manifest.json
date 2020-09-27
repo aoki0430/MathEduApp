@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/matheduapp/static/css/main.e57ee488.chunk.css",
+    "main.js": "/matheduapp/static/js/main.6f2ee50f.chunk.js",
+    "main.js.map": "/matheduapp/static/js/main.6f2ee50f.chunk.js.map",
+    "runtime-main.js": "/matheduapp/static/js/runtime-main.77879aa4.js",
+    "runtime-main.js.map": "/matheduapp/static/js/runtime-main.77879aa4.js.map",
+    "static/css/2.e6e3f32e.chunk.css": "/matheduapp/static/css/2.e6e3f32e.chunk.css",
+    "static/js/2.93f084ea.chunk.js": "/matheduapp/static/js/2.93f084ea.chunk.js",
+    "static/js/2.93f084ea.chunk.js.map": "/matheduapp/static/js/2.93f084ea.chunk.js.map",
+    "index.html": "/matheduapp/index.html",
+    "precache-manifest.a5a8ca037f71cbdb9e1324bd6bf23bec.js": "/matheduapp/precache-manifest.a5a8ca037f71cbdb9e1324bd6bf23bec.js",
+    "service-worker.js": "/matheduapp/service-worker.js",
+    "static/css/2.e6e3f32e.chunk.css.map": "/matheduapp/static/css/2.e6e3f32e.chunk.css.map",
+    "static/css/main.e57ee488.chunk.css.map": "/matheduapp/static/css/main.e57ee488.chunk.css.map",
+    "static/js/2.93f084ea.chunk.js.LICENSE.txt": "/matheduapp/static/js/2.93f084ea.chunk.js.LICENSE.txt",
+    "static/media/katex.min.css": "/matheduapp/static/media/KaTeX_Typewriter-Regular.641339e2.woff2",
+    "static/media/anime_1_1.png": "/matheduapp/static/media/anime_1_1.fe99f813.png",
+    "static/media/anime_1_2.png": "/matheduapp/static/media/anime_1_2.922bc129.png",
+    "static/media/anime_2_1.png": "/matheduapp/static/media/anime_2_1.426e92a6.png",
+    "static/media/img_11r2.png": "/matheduapp/static/media/img_11r2.f6efd7f0.png",
+    "static/media/img_12r3.png": "/matheduapp/static/media/img_12r3.3d0a9345.png",
+    "static/media/img_345.png": "/matheduapp/static/media/img_345.1cc8089d.png",
+    "static/media/img_pytha.png": "/matheduapp/static/media/img_pytha.0666b78a.png",
+    "static/media/img_regularTriangle.png": "/matheduapp/static/media/img_regularTriangle.d5bfb92e.png",
+    "static/media/img_square.png": "/matheduapp/static/media/img_square.c43014bd.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77879aa4.js",
+    "static/css/2.e6e3f32e.chunk.css",
+    "static/js/2.93f084ea.chunk.js",
+    "static/css/main.e57ee488.chunk.css",
+    "static/js/main.6f2ee50f.chunk.js"
+  ]
+}
