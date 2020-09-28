@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "92c7b7fb9981e715a0617a7bc5a44951",
+    "revision": "baa19f7a5e223ce82a57fcf7738decfa",
     "url": "/MathEduApp/index.html"
   },
   {
-    "revision": "26fcc21d453bedbb3f07",
+    "revision": "76305cea36989f1eca2d",
     "url": "/MathEduApp/static/css/2.fbf480f2.chunk.css"
   },
   {
-    "revision": "a1612dc6a535063b5720",
+    "revision": "79a5be4e29453e718c4a",
     "url": "/MathEduApp/static/css/main.e57ee488.chunk.css"
   },
   {
-    "revision": "26fcc21d453bedbb3f07",
-    "url": "/MathEduApp/static/js/2.32741999.chunk.js"
+    "revision": "76305cea36989f1eca2d",
+    "url": "/MathEduApp/static/js/2.317d33a7.chunk.js"
   },
   {
-    "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/MathEduApp/static/js/2.32741999.chunk.js.LICENSE.txt"
+    "revision": "0d10b9de47c8023f7fd9d830b32d5242",
+    "url": "/MathEduApp/static/js/2.317d33a7.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a1612dc6a535063b5720",
-    "url": "/MathEduApp/static/js/main.8eb65f8b.chunk.js"
+    "revision": "79a5be4e29453e718c4a",
+    "url": "/MathEduApp/static/js/main.798e19e0.chunk.js"
   },
   {
     "revision": "273bee811172e689ce2f",
