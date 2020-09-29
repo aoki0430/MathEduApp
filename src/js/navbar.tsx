@@ -13,6 +13,7 @@ export default class Navbar extends React.Component{
                 <p><Link to="/">this is home</Link></p>
                 <p><Link to="/Pytha1">this is pytha1</Link></p>
                 <p><Link to="/Pytha2">this is pytha2</Link></p>
+                <p><Link to="/Pytha3">this is pytha3</Link></p>
             </div>
         );
         
