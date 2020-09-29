@@ -21,22 +21,20 @@ class ExPytha extends React.Component<ExPythaProps, {}> {
         if(!this.props.adding){
             return(
                 <div className="expytha">
-                    <div className="main">
-                        <img className="img_l" src={this.props.img} alt={'No Images'}/>
-                        <$$>{this.props.tex}</$$>
-                    </div>
+                    <div className="expythaImg"><img src={this.props.img} alt={'No Images'}/></div>
+                    <$$>{this.props.tex}</$$>
                 </div>
             );
         }else{
             return(
                 <div className="expytha">
                     <div className="main">
-                        <img className="img_l" src={this.props.img} alt={'No Images'}/>
+                    <div className="expythaImg"><img src={this.props.img} alt={'No Images'}/></div>
                         <$$>{this.props.tex}</$$>
                     </div>
                     <div className="supplement">
-                        <img className="img_r" src={this.props.addingImg} alt={'No Images'}/>
-                        <$>{this.props.adding}</$>
+                        <div className="expythaImg"><img src={this.props.addingImg} alt={'No Images'}/></div>
+                        <p>{this.props.adding}</p>
                     </div>
                 </div>
             );
