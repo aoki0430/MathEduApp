@@ -22,3 +22,4 @@ div.Example:last-of-type{border-bottom: none;}
 /* 具体例のComponetに含まれる図 */
 .exImg{ text-align:center;}
 .exImg>img{height:200px;}
+.exImg input {width: 50px; height: 30px;}
