@@ -7,6 +7,12 @@ import img_pytha from './../img/img_pytha.png';
 import img_345_x45 from './../img/img_345_x45.png';
 import img_11r2_11x from './../img/img_11r2_11x.png';
 import img_12r3_12x from './../img/img_12r3_12x.png';
+import img_345_68x from './../img/img_345_68x.png';
+import img_11r2_3x3r2 from './../img/img_11r2_3x3r2.png';
+import img_12r5_12x from './../img/img_12r5_12x.png';
+import img_51213_x1213 from './../img/img_51213_x1213.png';
+import img_345_12x20 from './../img/img_345_12x20.png';
+import img_12r3_48x from './../img/img_12r3_48x.png';
 import {Route, Link } from 'react-router-dom'
 const _ = String.raw;
 
@@ -76,8 +82,51 @@ export default class Pytha2 extends React.Component{
                     <p>次の直角三角形の辺の長さ<$>{_`x`}</$>を求めよ．</p>
                     <div className="quizSec">
                         <h1>(1)</h1>
-                        <img alt={'noimage'}></img>
-                        <input type="text"></input>
+                        <div className="example">
+                            <div className="exImg" ><img src={img_345_68x} alt={'noimage'}></img>
+                            <p><$>{_`x=~`}</$><input type="number"></input></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="quizSec">
+                        <h1>(2)</h1>
+                        <div className="example">
+                            <div className="exImg" ><img src={img_11r2_3x3r2} alt={'noimage'}></img>
+                            <p><$>{_`x=~`}</$><input type="number"></input></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="quizSec">
+                        <h1>(3)</h1>
+                        <div className="example">
+                            <div className="exImg" ><img src={img_12r5_12x} alt={'noimage'}></img>
+                            <p><$>{_`x=~`}</$><input type="number"></input></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="quizSec">
+                        <h1>(4)</h1>
+                        <div className="example">
+                            <div className="exImg" ><img src={img_51213_x1213} alt={'noimage'}></img>
+                            <p><$>{_`x=~`}</$><input type="number"></input></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="quizSec">
+                        <h1>(5)</h1>
+                        <div className="example">
+                            <div className="exImg" ><img src={img_345_12x20} alt={'noimage'}></img>
+                            <p><$>{_`x=~`}</$><input type="number"></input></p>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="quizSec">
+                        <h1>(6)</h1>
+                        <div className="example">
+                            <div className="exImg" ><img src={img_12r3_48x} alt={'noimage'}></img>
+                            <p><$>{_`x=~`}</$><input type="number"></input></p>
+                            </div>
+                        </div>
                     </div>
                 </div>
                 <p><Link to="/Pytha3">this is pytha3</Link></p>

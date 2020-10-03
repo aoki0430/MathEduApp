@@ -9,6 +9,7 @@ import img_51213 from './../img/img_51213.png';
 import img_81517 from './../img/img_81517.png';
 import img_11r2 from './../img/img_11r2.png';
 import img_12r3 from './../img/img_12r3.png';
+import img_12r5 from './../img/img_12r5.png';
 const _ = String.raw;
 
 // :: 三平方の定理，ピタゴラスの定理
@@ -87,7 +88,7 @@ export default class Pytha3 extends React.Component{
 
                 <h3>それ以外の直角三角形</h3>
                 <div　className="example">
-                {/* <div className="exImg" ><img src={img_12r5} alt={'no image'}></img></div> */}
+                <div className="exImg" ><img src={img_12r5} alt={'no image'}></img></div>
                     <p><$>{_`1:2:\sqrt{5}`}</$>の直角三角形．</p>
                     <$$>{_`
                         1^2 + 2^2 &= \sqrt{5}^2 \\
