@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "baa19f7a5e223ce82a57fcf7738decfa",
+    "revision": "5e9e118f55ee960caaa6db616506d8f7",
     "url": "/MathEduApp/index.html"
   },
   {
-    "revision": "76305cea36989f1eca2d",
+    "revision": "6e44f0b5be00303da9ab",
     "url": "/MathEduApp/static/css/2.fbf480f2.chunk.css"
   },
   {
-    "revision": "79a5be4e29453e718c4a",
-    "url": "/MathEduApp/static/css/main.e57ee488.chunk.css"
+    "revision": "ef5bdd33f0f20ad554ac",
+    "url": "/MathEduApp/static/css/main.a9cb1158.chunk.css"
   },
   {
-    "revision": "76305cea36989f1eca2d",
-    "url": "/MathEduApp/static/js/2.317d33a7.chunk.js"
+    "revision": "6e44f0b5be00303da9ab",
+    "url": "/MathEduApp/static/js/2.a8e0c91a.chunk.js"
   },
   {
     "revision": "0d10b9de47c8023f7fd9d830b32d5242",
-    "url": "/MathEduApp/static/js/2.317d33a7.chunk.js.LICENSE.txt"
+    "url": "/MathEduApp/static/js/2.a8e0c91a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "79a5be4e29453e718c4a",
-    "url": "/MathEduApp/static/js/main.798e19e0.chunk.js"
+    "revision": "ef5bdd33f0f20ad554ac",
+    "url": "/MathEduApp/static/js/main.d72b7907.chunk.js"
   },
   {
     "revision": "273bee811172e689ce2f",
@@ -284,12 +284,32 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MathEduApp/static/media/img_11r2.f6efd7f0.png"
   },
   {
+    "revision": "5e899528016985b41b38b4ef7d8b5d7c",
+    "url": "/MathEduApp/static/media/img_11r2_11x.5e899528.png"
+  },
+  {
     "revision": "3d0a93453d9b74384157df6bf2ad0196",
     "url": "/MathEduApp/static/media/img_12r3.3d0a9345.png"
   },
   {
+    "revision": "dec89c56592c457942e8d698acce54ea",
+    "url": "/MathEduApp/static/media/img_12r3_12x.dec89c56.png"
+  },
+  {
     "revision": "1cc8089d5b72d9882d4196bc0d49ebae",
     "url": "/MathEduApp/static/media/img_345.1cc8089d.png"
+  },
+  {
+    "revision": "f724366bf2749c2957bf02abbdb45f35",
+    "url": "/MathEduApp/static/media/img_345_x45.f724366b.png"
+  },
+  {
+    "revision": "136dbd546de45978b0b05e399b076dc7",
+    "url": "/MathEduApp/static/media/img_51213.136dbd54.png"
+  },
+  {
+    "revision": "ac0ef86cc441391b9dfaeaff542d7866",
+    "url": "/MathEduApp/static/media/img_81517.ac0ef86c.png"
   },
   {
     "revision": "0666b78a64bde695144de0f83e16e33a",
